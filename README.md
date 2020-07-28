@@ -1,4 +1,4 @@
-# KWvACC-TopSky-Sector-File
+# ACCKW-TopSky-Sector-File
 
 Controller pack for Kuwait vACC Controllers; including TopSky, GRPLugin, and a realistic Symbology pack.
 
