@@ -1,6 +1,6 @@
 # ACCKW-TopSky-Sector-File
 
-Controller pack for Kuwait vACC Controllers; including TopSky, GRPLugin, and a realistic Symbology pack.
+Controller pack for   VATSIM Kuwait vACC Controllers; including TopSky, GRPLugin, and a realistic Symbology pack.
 
 VATME - https://hq.vatme.net/
 
