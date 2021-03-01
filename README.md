@@ -1,25 +1,18 @@
-# ACCKW-TopSky-Sector-File
+<p align="center"><img src="https://i.imgur.com/5a4eBmU.png" width="auto"></p>
 
-Controller pack for   VATSIM Kuwait vACC Controllers; including TopSky, GRpLugin, and a realistic Symbology pack.
+<p align="center"><br>Official repository of the TopSky plugin for Kuwait vACC<br>
+<a href="http://files.aero-nav.com/OKAC" target="_blank">http://files.aero-nav.com/OKAC</a> <i>(Sector file)</i><br>
+</p>
 
-VATME - https://hq.vatme.net/
+---
 
-EuroScope - http://euroScope.hu
 
-TopSky Plugin - https://vatsim-scandinavia.org/forums/forum/54-plugins
 
-GRPlugin Plugin - https://vatsim-scandinavia.org/forums/forum/54-plugins
+# ACCKW TopSky plugin
 
-DiscordEuroscope Plugin - https://github.com/Kirollos/DiscordEuroscope
+The TopSky plugin (a.k.a. The Plugin Formerly Known As “EUROCAT 2000 E”) is developed and maintained by Juha Holopainen from VATSIM Scandinavia. It is an almost complete set of tag items, tag menus, graphical elements on the radar display and some additional functionality based around the real world TopSky ATM system. 
 
-### Prerequisites
+As of right now, the aim of this plugin is to provide additional tools for ATC, while creating a system closer to LISATM than TopSky. As such, some tools and safety nets like PDC, MSAW, CPDLC etc are not currently available, while supported by the plugin.
+In the future with the introduction of TopSky in the real system in 2022 (Portuguese estimate™, subject to change), an update to bring it up to the real life counterpart standards should follow suit.
 
-EuroScope + Latest Beta
-
-### Installing
-
-Place the folder in you Documents\EuroScope folder. Open the provided PRF file in EuroScope.
-
-## License
-
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
+This plugin is for users with at least a basic understanding of ATC procedures and terminology, and being familiar with the operation of the EuroScope program itself. Refer to the EuroScope documentation for the most current information on the program’s features. Because of the complexity of the plugin, some offline practice is recommended before attempting to control online traffic with it.
