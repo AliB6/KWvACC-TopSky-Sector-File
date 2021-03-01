@@ -1,4 +1,4 @@
-# ACCKW-TopSky-Sector-File
+# ACCKW-TopSky
 <p align="center"><img src="https://i.imgur.com/5a4eBmU.png" width="auto"></p>
 
 <p align="center"><br>Official repository of the TopSky plugin for Kuwait vACC<br>
