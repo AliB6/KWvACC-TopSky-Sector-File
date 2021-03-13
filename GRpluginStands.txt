@@ -1,6 +1,6 @@
 // File originally written by Ali Badreldeen
 //
-// Version 1.1
+// Version 1.2
 //
 // last change by Ali Badreldeen
 //
